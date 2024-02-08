@@ -1,0 +1,33 @@
+body {
+    width: 33%
+}
+
+.results{
+    background-color: lightgray;
+    border-style: solid;
+    height: 48px; 
+    font-size: 20px;
+}
+
+.buttonContainer > .buttonDigit, .buttonFinalise, .buttonOpperation {
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin: 0px;
+    float: left;
+}
+
+.buttonDigit {
+    background-color: lightgreen;
+    color: brown;
+}
+
+.buttonFinalise {
+    background-color: darkgreen;
+    color: white;
+}
+
+.buttonOpperation {
+    background-color: black;
+    color: red;
+}
